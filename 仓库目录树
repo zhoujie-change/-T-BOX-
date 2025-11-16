@@ -1,0 +1,18 @@
+tbox-communication-demo
+│
+├── firmware/
+│   ├── main.c
+│   ├── uart_driver.c
+│   ├── uart_driver.h
+│   ├── mqtt_upload.c
+│   ├── mqtt_upload.h
+│   └── CMakeLists.txt
+│
+├── hardware/
+│   ├── wiring_diagram.md
+├── docs/
+│   ├── protocol_design.md
+│   ├── debugging_records.md
+│   └── problem_fix_list.md
+│
+└── README.md
